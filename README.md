@@ -5,10 +5,16 @@
 https://github.com/thunlp/TensorFlow-TransX
 
 #TransE :
+
 #TransH :
+
 #HolE :
+
 #RESCAL :
+
 #ER-MLP :
+
 #DistMult :
+
 #ComplexE :
 
