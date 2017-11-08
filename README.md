@@ -4,8 +4,6 @@
 #TransE : 
 https://github.com/thunlp/TensorFlow-TransX
 
-#TransE :
-
 #TransH :
 
 #HolE :
