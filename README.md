@@ -9,6 +9,7 @@ https://github.com/thunlp/TensorFlow-TransX
 #HolE :
 
 #RESCAL :
+https://github.com/mnick/rescal.py
 
 #ER-MLP :
 
