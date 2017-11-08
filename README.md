@@ -1,20 +1,16 @@
-# KG Algorithms 
+# KG embeddings methods 
 
-# Copy rights
-#TransE : 
+# Datasets
+- WN
+- FB15k
+
+
+[[Download]](https://github.com/mana-ysh/knowledge-graph-embeddings/tree/master/dat)
+
+# References
 https://github.com/thunlp/TensorFlow-TransX
 
-#TransH :
-https://github.com/thunlp/TensorFlow-TransX
-
-#HolE :
-
-#RESCAL :
 https://github.com/mnick/rescal.py
 
-#ER-MLP :
 
-#DistMult :
-
-#ComplexE :
 
