@@ -5,6 +5,7 @@
 https://github.com/thunlp/TensorFlow-TransX
 
 #TransH :
+https://github.com/thunlp/TensorFlow-TransX
 
 #HolE :
 
