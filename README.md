@@ -5,7 +5,7 @@
 - FB15k
 
 
-[[Download]](https://github.com/mana-ysh/knowledge-graph-embeddings/tree/master/dat)
+[[Download]](https://github.com/aalzeitoun/algorithms/tree/master/datasets)
 
 # References
 https://github.com/thunlp/TensorFlow-TransX
