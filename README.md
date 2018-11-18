@@ -1,4 +1,4 @@
-# Knowledge Graph embeddings methods 
+# Knowledge Graph embeddings methods Implementations
 
 # Datasets
 - WN
